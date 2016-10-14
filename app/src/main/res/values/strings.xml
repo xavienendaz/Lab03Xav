@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="firstname_hint">firstname</string>
+    <string name="lastname_hint">lastname</string>
+    <string name="postal_address_hint">postal_address</string>
+    <string name="city_hint">city</string>
+    <string name="email_hint">email</string>
+    <string name="country_hint">country</string>
+    <string name="birthdate_hint">birthdate</string>
+    <string name="email" />
+</resources>
